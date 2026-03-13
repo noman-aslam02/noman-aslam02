@@ -60,12 +60,17 @@ Laravel backend developer with hands-on experience building and shipping real we
 
 </div>
 
-| # | Project | Description | Year |
-|---|---------|-------------|:----:|
-| 🏪 | **Friend's Photostat & Stationery** | Full-stack e-commerce web app for a real stationery & photostat business. Product ordering, print services, order tracking, wishlist & admin dashboard. | 2026 |
-| 💍 | **[Mrs Khan Marriage Bureau](http://mrskhanmarriagebureau.com)** | Marriage bureau platform serving Pakistan, UK, US & Canada. User auth, profile management, consultation booking & WhatsApp integration. | 2026 |
-| ✈️ | **AI Travel Planner** | AI-powered web app that suggests destinations & estimates budget based on user preferences. | 2025 |
-| 📦 | **Courier Management System** | Full-stack system for managing courier orders & deliveries end-to-end. | 2025 |
+🏪 **Friend's Photostat & Stationery** — `2026`
+Full-stack e-commerce web app for a real stationery & photostat business. Product ordering, print services, order tracking, wishlist & admin dashboard.
+
+💍 **[Mrs Khan Marriage Bureau](http://mrskhanmarriagebureau.com)** — `2026`
+Marriage bureau platform serving Pakistan, UK, US & Canada. User auth, profile management, consultation booking & WhatsApp integration.
+
+✈️ **AI Travel Planner** — `2025`
+AI-powered web app that suggests destinations & estimates budget based on user preferences.
+
+📦 **Courier Management System** — `2025`
+Full-stack system for managing courier orders & deliveries end-to-end.
 
 ---
 
