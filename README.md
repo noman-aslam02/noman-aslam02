@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Muhammad%20Noman%20Aslam&fontSize=50&color=0:0d1117,50:161b22,100:0d1117&stroke=58a6ff&strokeWidth=2&fontColor=ffffff&animation=twinkling&desc=Laravel%20Backend%20Developer%20%7C%20Karachi%2C%20Pakistan&descSize=16&descAlignY=72&descColor=8b949e" width="100%" />
 
-<br/>
+<br/>a
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noman-aslam02&label=Profile+Views&color=00d4ff&style=for-the-badge)](https://github.com/noman-aslam02)&nbsp;
 [![Followers](https://img.shields.io/github/followers/noman-aslam02?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/noman-aslam02)
