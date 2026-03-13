@@ -1,20 +1,13 @@
 <div align="center">
 
-<!-- Animated Name with HTML/CSS -->
-<a href="https://github.com/noman-aslam02">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Muhammad+Noman+Aslam" alt="Name" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Muhammad%20Noman%20Aslam&fontSize=50&color=0:0d1117,50:161b22,100:0d1117&stroke=58a6ff&strokeWidth=2&fontColor=ffffff&animation=twinkling&desc=Laravel%20Backend%20Developer%20%7C%20Karachi%2C%20Pakistan&descSize=16&descAlignY=72&descColor=8b949e" width="100%" />
 
-<a href="https://github.com/noman-aslam02">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=580&height=35&lines=⚡+Laravel+Backend+Developer+%7C+Full-Stack+Builder;🚀+Building+Real+Products%2C+Not+Just+Code;🔭+DevOps+%26+Docker+—+Coming+Soon;🇵🇰+Based+in+Karachi%2C+Pakistan" alt="Typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&height=35&lines=⚡+Laravel+%7C+PHP+%7C+MySQL+%7C+REST+APIs;🚀+Building+Real+Products%2C+Not+Just+Code;🔭+DevOps+%26+Docker+—+Coming+Soon;🟢+Open+to+Internships+%26+Freelance" alt="Typing" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noman-aslam02&label=Profile+Views&color=00d4ff&style=for-the-badge)](https://github.com/noman-aslam02)&nbsp;
 [![Followers](https://img.shields.io/github/followers/noman-aslam02?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/noman-aslam02)
-
-<br/>
 
 </div>
 
@@ -26,15 +19,7 @@
 
 </div>
 
-- 🏢 **Co-Owner & Web Developer** at Friend's Photostat & Stationery
-- 💼 **Freelance Developer** — built real client projects with PHP & Laravel
-- 🎓 **Software Engineering Diploma** — Aptech Institute *(2022 – ongoing)*
-- 🚀 **Building** E-commerce platforms, RESTful APIs & Admin Dashboards
-- 🔭 **Learning Next** — DevOps, Docker, CI/CD
-- 💬 **Ask me about** Laravel, PHP, MySQL, REST APIs
-- 📧 **nomanaslam390@gmail.com**
-
-> *"Ship real things. Learn fast. Build better."*
+Laravel backend developer with hands-on experience building and shipping real web applications — from e-commerce platforms to client-facing service websites. I work with **PHP, Laravel, MySQL** and **RESTful APIs**, and handle the full backend lifecycle from database design to deployment. I've built and co-own a live e-commerce platform, and have freelanced on production projects serving international users. Clean code, real business impact, and fast delivery are what I focus on.
 
 ---
 
@@ -78,7 +63,7 @@
 </div>
 
 | # | Project | Description | Year |
-|---|---------|-------------|------|
+|---|---------|-------------|:----:|
 | 🏪 | **Friend's Photostat & Stationery** | Full-stack e-commerce web app for a real stationery & photostat business. Product ordering, print services, order tracking, wishlist & admin dashboard. | 2026 |
 | 💍 | **[Mrs Khan Marriage Bureau](http://mrskhanmarriagebureau.com)** | Marriage bureau platform serving Pakistan, UK, US & Canada. User auth, profile management, consultation booking & WhatsApp integration. | 2026 |
 | ✈️ | **AI Travel Planner** | AI-powered web app that suggests destinations & estimates budget based on user preferences. | 2025 |
