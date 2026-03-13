@@ -1,8 +1,13 @@
 <div align="center">
 
-# Muhammad Noman Aslam
+<!-- Animated Name with HTML/CSS -->
+<a href="https://github.com/noman-aslam02">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Muhammad+Noman+Aslam" alt="Name" />
+</a>
 
-### `Laravel Backend Developer` &nbsp;·&nbsp; `Full-Stack Builder` &nbsp;·&nbsp; `Karachi, Pakistan 🇵🇰`
+<a href="https://github.com/noman-aslam02">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=580&height=35&lines=⚡+Laravel+Backend+Developer+%7C+Full-Stack+Builder;🚀+Building+Real+Products%2C+Not+Just+Code;🔭+DevOps+%26+Docker+—+Coming+Soon;🇵🇰+Based+in+Karachi%2C+Pakistan" alt="Typing" />
+</a>
 
 <br/>
 
@@ -12,6 +17,24 @@
 <br/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+</div>
+
+- 🏢 **Co-Owner & Web Developer** at Friend's Photostat & Stationery
+- 💼 **Freelance Developer** — built real client projects with PHP & Laravel
+- 🎓 **Software Engineering Diploma** — Aptech Institute *(2022 – ongoing)*
+- 🚀 **Building** E-commerce platforms, RESTful APIs & Admin Dashboards
+- 🔭 **Learning Next** — DevOps, Docker, CI/CD
+- 💬 **Ask me about** Laravel, PHP, MySQL, REST APIs
+- 📧 **nomanaslam390@gmail.com**
+
+> *"Ship real things. Learn fast. Build better."*
 
 ---
 
@@ -67,9 +90,9 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noman-aslam02&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noman-aslam02&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&count_private=true&hide_title=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-aslam02&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-aslam02&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&langs_count=6&hide_title=true" />
 
 <br/><br/>
 
