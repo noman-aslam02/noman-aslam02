@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&fontColor=00d4ff&text=Muhammad%20Noman%20Aslam&fontSize=42&fontAlignY=38&desc=Laravel%20Backend%20Developer%20%7C%20Karachi%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=58&descColor=8892b0&animation=fadeIn" width="100%" />
+# Muhammad Noman Aslam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=550&height=45&lines=🚀+Laravel+%7C+PHP+%7C+RESTful+APIs;⚡+Building+Real+Products%2C+Not+Just+Code;🔭+DevOps+%26+Docker+—+Coming+Soon;💡+Clean+Code+%7C+Real+Business+Impact" alt="Typing SVG" />
+### `Laravel Backend Developer` &nbsp;·&nbsp; `Full-Stack Builder` &nbsp;·&nbsp; `Karachi, Pakistan 🇵🇰`
 
 <br/>
 
@@ -57,9 +57,9 @@
 | # | Project | Description | Year |
 |---|---------|-------------|------|
 | 🏪 | **Friend's Photostat & Stationery** | Full-stack e-commerce web app for a real stationery & photostat business. Product ordering, print services, order tracking, wishlist & admin dashboard. | 2026 |
-| 💍 | **[Mrs Khan Marriage Bureau](http://mrskhanmarriagebureau.com)** | Marriage bureau platform serving Pakistan, UK, US & Canada. User auth, profile management, consultation booking & WhatsApp integration. | 2025–2026 |
-| ✈️ | **AI Travel Planner** | AI-powered web app that suggests destinations & estimates budget based on user preferences. | 2023–2025 |
-| 📦 | **Courier Management System** | Full-stack system for managing courier orders & deliveries end-to-end. | 2023–2025 |
+| 💍 | **[Mrs Khan Marriage Bureau](http://mrskhanmarriagebureau.com)** | Marriage bureau platform serving Pakistan, UK, US & Canada. User auth, profile management, consultation booking & WhatsApp integration. | 2026 |
+| ✈️ | **AI Travel Planner** | AI-powered web app that suggests destinations & estimates budget based on user preferences. | 2025 |
+| 📦 | **Courier Management System** | Full-stack system for managing courier orders & deliveries end-to-end. | 2025 |
 
 ---
 
