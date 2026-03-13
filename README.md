@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Muhammad%20Noman%20Aslam&fontSize=50&color=0:0d1117,50:161b22,100:0d1117&stroke=58a6ff&strokeWidth=2&fontColor=ffffff&animation=twinkling&desc=Laravel%20Backend%20Developer%20%7C%20Karachi%2C%20Pakistan&descSize=16&descAlignY=72&descColor=8b949e" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&height=35&lines=⚡+Laravel+%7C+PHP+%7C+MySQL+%7C+REST+APIs;🚀+Building+Real+Products%2C+Not+Just+Code;🔭+DevOps+%26+Docker+—+Coming+Soon;🟢+Open+to+Internships+%26+Freelance" alt="Typing" />
-
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noman-aslam02&label=Profile+Views&color=00d4ff&style=for-the-badge)](https://github.com/noman-aslam02)&nbsp;
