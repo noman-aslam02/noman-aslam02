@@ -1,16 +1,8 @@
 <div align="center">
 
-# Muhammad Noman Aslam
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&fontColor=00d4ff&text=Muhammad%20Noman%20Aslam&fontSize=42&fontAlignY=38&desc=Laravel%20Backend%20Developer%20%7C%20Karachi%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=58&descColor=8892b0&animation=fadeIn" width="100%" />
 
-### `Laravel Backend Developer` &nbsp;·&nbsp; `Full-Stack Builder` &nbsp;·&nbsp; `Karachi, Pakistan 🇵🇰`
-
-<br/>
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=550&height=45&lines=🚀+Laravel+%7C+PHP+%7C+RESTful+APIs;⚡+Building+Real+Products%2C+Not+Just+Code;🔭+DevOps+%26+Docker+—+Coming+Soon;💡+Clean+Code+%7C+Real+Business+Impact" alt="Typing SVG" />
 
 <br/>
 
@@ -18,25 +10,6 @@
 [![Followers](https://img.shields.io/github/followers/noman-aslam02?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/noman-aslam02)
 
 <br/>
-
-> 🟢 **Open to Internships & Freelance Work** &nbsp;|&nbsp; 📧 nomanaslam390@gmail.com
-
-</div>
-
----
-
-<div align="center">
-
-## 👨‍💻 About Me
-
-| | |
-|---|---|
-| 💼 **Role** | Laravel Backend Developer |
-| 🚀 **Building** | E-commerce platforms, RESTful APIs, Admin Dashboards |
-| 🔭 **Learning Next** | DevOps 🚧 · Docker 🐳 · CI/CD ⚙️ |
-| 💬 **Ask me about** | Laravel, PHP, MySQL, REST APIs |
-
-> *"Ship real things. Learn fast. Build better."*
 
 </div>
 
@@ -113,5 +86,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanaslam390@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noman-aslam02)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923342529379)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
 
 </div>
