@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Muhammad%20Noman%20Aslam&fontSize=50&color=0:0d1117,50:161b22,100:0d1117&stroke=58a6ff&strokeWidth=2&fontColor=ffffff&animation=twinkling&desc=Laravel%20Backend%20Developer&descSize=16&descAlignY=72&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Muhammad%20Noman%20Aslam&fontSize=50&color=0:0d1117,50:161b22,100:0d1117&stroke=58a6ff&strokeWidth=2&fontColor=ffffff&animation=twinkling&desc=Laravel%20Full%20Stack%20Developer&descSize=16&descAlignY=72&descColor=8b949e" width="100%" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-Laravel Backend developer with hands-on experience building and shipping real web applications — from e-commerce platforms to client-facing service websites. I work with **PHP, Laravel, MySQL** and **RESTful APIs**, and handle the full Backend lifecycle from database design to deployment. I've built and co-own a live e-commerce platform, and have freelanced on production projects serving international users. Clean code, real business impact, and fast delivery are what I focus on.
+Laravel Full%20Stack developer with hands-on experience building and shipping real web applications — from e-commerce platforms to client-facing service websites. I work with **PHP, Laravel, MySQL** and **RESTful APIs**, and handle the full Full%20Stack lifecycle from database design to deployment. I've built and co-own a live e-commerce platform, and have freelanced on production projects serving international users. Clean code, real business impact, and fast delivery are what I focus on.
 
 ---
 
@@ -25,7 +25,7 @@ Laravel Backend developer with hands-on experience building and shipping real we
 
 ## ⚡ Tech Stack
 
-**Backend**
+**Full%20Stack**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
