@@ -17,7 +17,7 @@
 
 </div>
 
-Laravel Full%20Stack developer with hands-on experience building and shipping real web applications — from e-commerce platforms to client-facing service websites. I work with **PHP, Laravel, MySQL** and **RESTful APIs**, and handle the full Full%20Stack lifecycle from database design to deployment. I've built and co-own a live e-commerce platform, and have freelanced on production projects serving international users. Clean code, real business impact, and fast delivery are what I focus on.
+Laravel Full Stack developer with hands-on experience building and shipping real web applications — from e-commerce platforms to client-facing service websites. I work with **PHP, Laravel, MySQL** and **RESTful APIs**, and handle the full Full Stack lifecycle from database design to deployment. I've built and co-own a live e-commerce platform, and have freelanced on production projects serving international users. Clean code, real business impact, and fast delivery are what I focus on.
 
 ---
 
@@ -25,7 +25,7 @@ Laravel Full%20Stack developer with hands-on experience building and shipping re
 
 ## ⚡ Tech Stack
 
-**Full%20Stack**
+**Full Stack**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -78,13 +78,13 @@ Full-stack system for managing courier orders & deliveries end-to-end.
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=noman-aslam02&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=8892b0&amp;hide_title=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-noman-aslam02.vercel.app/api?username=noman-aslam02&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&hide_title=true" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=noman-aslam02&amp;layout=compact&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=8892b0&amp;langs_count=6&amp;hide_title=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-noman-aslam02.vercel.app/api/top-langs?username=noman-aslam02&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&langs_count=6&hide_title=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&amp;theme=tokyonight&amp;background=0d1117&amp;border=00d4ff&amp;ring=00d4ff&amp;fire=ff6b35&amp;currStreakNum=ffffff&amp;currStreakLabel=00d4ff&amp;sideLabels=8892b0&amp;dates=8892b0" width="55%" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&theme=tokyonight&background=0d1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0" width="55%" />
 
 </div>
 
