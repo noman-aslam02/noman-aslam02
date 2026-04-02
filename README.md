@@ -78,13 +78,13 @@ Full-stack system for managing courier orders & deliveries end-to-end.
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=noman-aslam02&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&count_private=true&hide_title=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=noman-aslam02&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=8892b0&amp;hide_title=true" alt="GitHub Stats" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-aslam02&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&langs_count=6&hide_title=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=noman-aslam02&amp;layout=compact&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=8892b0&amp;langs_count=6&amp;hide_title=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&theme=tokyonight&background=0d1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0" width="55%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&amp;theme=tokyonight&amp;background=0d1117&amp;border=00d4ff&amp;ring=00d4ff&amp;fire=ff6b35&amp;currStreakNum=ffffff&amp;currStreakLabel=00d4ff&amp;sideLabels=8892b0&amp;dates=8892b0" width="55%" alt="Streak Stats" />
 
 </div>
 
