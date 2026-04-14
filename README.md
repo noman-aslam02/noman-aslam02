@@ -17,7 +17,7 @@
 
 </div>
 
-Laravel Full Stack developer with hands-on experience building and shipping real web applications — from e-commerce platforms to client-facing service websites. I work with **PHP, Laravel, MySQL** and **RESTful APIs**, and handle the full Full Stack lifecycle from database design to deployment. I've built and co-own a live e-commerce platform, and have freelanced on production projects serving international users. Clean code, real business impact, and fast delivery are what I focus on.
+Laravel Full Stack developer hoon jo real-world web applications banane par focus karta hai. E-commerce platforms se le kar international client projects tak, mein **PHP, Laravel, aur MySQL** ka use karte hue complete development cycle handle karta hoon. Mera focus hamesha clean code likhne aur fast delivery par hota hai taake business ko real impact mil sakay.
 
 ---
 
@@ -45,32 +45,12 @@ Laravel Full Stack developer with hands-on experience building and shipping real
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Coming Soon 🔭**
+**Learning 🔭**
 
-![DevOps](https://img.shields.io/badge/DevOps-Coming_Soon-555555?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Coming_Soon-555555?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ What I've Built
+![DevOps](https://img.shields.io/badge/DevOps-555555?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-🏪 **Friend's Photostat & Stationery** — `2026`
-Full-stack e-commerce web app for a real stationery & photostat business. Product ordering, print services, order tracking, wishlist & admin dashboard.
-
-💍 **[Mrs Khan Marriage Bureau](http://mrskhanmarriagebureau.com)** — `2026`
-Marriage bureau platform serving Pakistan, UK, US & Canada. User auth, profile management, consultation booking & WhatsApp integration.
-
-✈️ **AI Travel Planner** — `2025`
-AI-powered web app that suggests destinations & estimates budget based on user preferences.
-
-📦 **Courier Management System** — `2025`
-Full-stack system for managing courier orders & deliveries end-to-end.
 
 ---
 
@@ -78,7 +58,14 @@ Full-stack system for managing courier orders & deliveries end-to-end.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&theme=tokyonight&background=0d1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0" width="55%" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noman-aslam02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&theme=tokyonight&background=0d1117&border=00d4ff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-aslam02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
 </div>
 
@@ -89,8 +76,10 @@ Full-stack system for managing courier orders & deliveries end-to-end.
 ## 📬 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanaslam390@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noman-aslam02)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923342529379)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
 
