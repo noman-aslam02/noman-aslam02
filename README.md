@@ -78,12 +78,6 @@ Full-stack system for managing courier orders & deliveries end-to-end.
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats-noman-aslam02.vercel.app/api?username=noman-aslam02&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&hide_title=true" />
-&nbsp;
-<img height="180" src="https://github-readme-stats-noman-aslam02.vercel.app/api/top-langs?username=noman-aslam02&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&langs_count=6&hide_title=true" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&theme=tokyonight&background=0d1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0" width="55%" />
 
 </div>
