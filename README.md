@@ -5,7 +5,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noman-aslam02&label=Profile+Views&color=00d4ff&style=for-the-badge)](https://github.com/noman-aslam02)&nbsp;
-[![Followers](https://img.shields.io/github/followers/noman-aslam02?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&cacheSeconds=3600)](https://github.com/noman-aslam02)
+[![Followers](https://img.shields.io/github/followers=noman-aslam02?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&cacheSeconds=3600)](https://github.com/noman-aslam02)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-Laravel Full Stack developer hoon jo real-world web applications banane par focus karta hai. E-commerce platforms se le kar international client projects tak, mein **PHP, Laravel, aur MySQL** ka use karte hue complete development cycle handle karta hoon. Mera focus hamesha clean code likhne aur fast delivery par hota hai taake business ko real impact mil sakay.
+Laravel Full Stack developer hoon jo real-world web applications banane par focus karta hai. Mein **PHP, Laravel, MySQL** aur **RESTful APIs** ke saath kaam karta hoon aur database design se le kar deployment tak ka pura lifecycle handle karta hoon. Clean code aur real business impact meri priority hoti hai.
 
 ---
 
@@ -45,10 +45,10 @@ Laravel Full Stack developer hoon jo real-world web applications banane par focu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Learning 🔭**
+**Coming Soon 🔭**
 
-![DevOps](https://img.shields.io/badge/DevOps-555555?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Coming_Soon-555555?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Coming_Soon-555555?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -58,14 +58,7 @@ Laravel Full Stack developer hoon jo real-world web applications banane par focu
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noman-aslam02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&theme=tokyonight&background=0d1117&border=00d4ff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-aslam02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-aslam02&theme=tokyonight&background=0d1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0" width="55%" />
 
 </div>
 
@@ -76,10 +69,8 @@ Laravel Full Stack developer hoon jo real-world web applications banane par focu
 ## 📬 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanaslam390@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noman-aslam02)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923342529379)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
 
