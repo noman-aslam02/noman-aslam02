@@ -5,7 +5,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noman-aslam02&label=Profile+Views&color=00d4ff&style=for-the-badge)](https://github.com/noman-aslam02)&nbsp;
-[![Followers](https://img.shields.io/github/followers=noman-aslam02?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&cacheSeconds=3600)](https://github.com/noman-aslam02)
+[![Followers](https://img.shields.io/github/followers/noman-aslam02?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/noman-aslam02?tab=followers)
 
 </div>
 
