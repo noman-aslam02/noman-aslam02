@@ -17,7 +17,7 @@
 
 </div>
 
-Laravel Full Stack developer hoon jo real-world web applications banane par focus karta hai. Mein **PHP, Laravel, MySQL** aur **RESTful APIs** ke saath kaam karta hoon aur database design se le kar deployment tak ka pura lifecycle handle karta hoon. Clean code aur real business impact meri priority hoti hai.
+I am a Laravel Full Stack Developer focused on building real-world web applications. I specialize in **PHP, Laravel, MySQL**, and **RESTful APIs**, handling the entire development lifecycle from database design to deployment. Writing clean code and creating real business impact are my top priorities.
 
 ---
 
